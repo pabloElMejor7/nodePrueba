@@ -6,10 +6,10 @@ async  function exportsFunction(){
 
         const  conections   = await   mysql.createConnection({
 
-            host: "localhost",
-            user: "root",
-            password: "",
-            database : "api_tutorial"
+            host: "bm5bpgycnrm4mb46czmg-mysql.services.clever-cloud.com",
+            user: "umxfnteptx3wnsm9",
+            password: "6p6t7C4r5ZlYHk4gQsWh",
+            database : "bm5bpgycnrm4mb46czmg"
 
         });
 
